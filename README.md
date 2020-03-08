@@ -1,4 +1,4 @@
 # Sega
-https://mdriasatazim.github.io/Minnisota/
+https://mdriasatazim.github.io/Sega/
 
 This is a simple web template using HTML, CSS & JavaScript, jQuery
